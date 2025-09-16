@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "rabita-gibi",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "rabita",
+      "database_id": "62912e24-48a8-41f4-a340-de4bbc5ed3c4"
+    }
+  ]
+}
